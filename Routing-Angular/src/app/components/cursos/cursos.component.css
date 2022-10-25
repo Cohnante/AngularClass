@@ -1,0 +1,13 @@
+*{
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+}
+
+.cuadrado{
+  width: 250px;
+  height: 250px;
+  background-color: rgb(61, 61, 62);
+  border-radius: 1px solid;
+  color: white;
+}

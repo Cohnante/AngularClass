@@ -1,0 +1,16 @@
+#first{
+  display: block;
+  justify-content: center;
+  margin: 50px;
+  background-color: gray;
+  text-align: center;
+}
+
+#second{
+  display: block;
+  justify-content: center;
+  margin: 50px;
+  background-color: gray;
+  text-align: center;
+}
+

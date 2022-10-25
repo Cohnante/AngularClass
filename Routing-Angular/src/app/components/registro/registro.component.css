@@ -1,0 +1,24 @@
+#first{
+  display: block;
+  justify-content: center;
+  margin: 25px;
+  background-color: gray;
+  text-align: center;
+  height: 80px;
+}
+
+#second{
+  display: block;
+  justify-content: center;
+  margin: 25px;
+  background-color: gray;
+  text-align: center;
+}
+
+#three{
+  display: block;
+  justify-content: center;
+  margin: 25px;
+  background-color: gray;
+  text-align: center;
+}
